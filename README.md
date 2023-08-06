@@ -15,6 +15,6 @@ Multiple users can also be added and deleted from the system.
 <li>JavaScript</li>
 
 ## `Installation`
-<li>Clone the repository: git clone https://github.com/sathvika-074/Project-Management-Tool.git </li>
+<li>Clone the repository: git clone https://github.com/Sarfarazpatel/Project-Management-Tool.git </li>
 <li>Open the project folder in your preferred code editor.</li>
 <li>Open the index.html file in a web browser.</li>
